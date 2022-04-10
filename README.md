@@ -1,8 +1,12 @@
 # An-approach-to-Generative-Adversarial-Networks-(GANs)-
 
 *****IMPORTANT*****
+
+--------
  
  If you want to run the code locally to your desktop, you have to download the notebook and the **cifar-10-batches-py** folder and put them in the same folder. But before running it you have to decompress (unrar) the 5 batched files that  **cifar-10-batches-py** folder contains
+ 
+-------- 
  
 Creation of Adversarial Examples of MNIST and CIFAR - 10 Dataset. Development of Models resistant to Adversarial Attacks
 
