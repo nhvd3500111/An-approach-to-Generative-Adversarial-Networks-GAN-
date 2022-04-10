@@ -1,6 +1,10 @@
 # An-approach-to-Generative-Adversarial-Networks-(GANs)-
 Creation of Adversarial Examples of MNIST and CIFAR - 10 Dataset. Development of Models resistant to Adversarial Attacks
 
+Implementation of 2 Ensembling Techniques ( Separated and Integrated Stacking) for Training the Original Models.
+
+Developping a Random Model Generator that is triggered each time our sytem is under a GAN attack
+
 Please, firstly read carefully the GAN - Problems PDF file.
 
 Regarding the notebook, it contains both the necessary code and comments (Report)  in order to fully understand the approach step - by step.
